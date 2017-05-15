@@ -1,0 +1,8 @@
+{
+    "attributes": {},
+    "elements": {
+        "wicket:extend": {},
+        "marquee": {},
+        "wicket:head": {}
+    }
+}

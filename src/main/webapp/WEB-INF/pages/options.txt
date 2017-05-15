@@ -1,0 +1,11 @@
+{"value":"FINBNKADRDFADM","name":"Finansman Banka Adres Defteri Yöneticisi"}
+{"value":"FINDBSADMIN","name":"Finansman Firma DBS Yöneticisi"}
+{"value":"FINDOSYUKADMIN","name":"Finansman Dosya Yükleme Yöneticisi"}
+{"value":"FINEFINANSADMN","name":"Finansman Efinans Yöneticisi"}
+{"value":"FINFAKTORADMIN","name":"Finansman Faktoring Yöneticisi"}
+{"value":"FINFIRADRDFADM","name":"Finansman Firma Adres Defteri Yöneticis"}
+{"value":"FINFIRMAADMIN","name":"Finansman Firma Yöneticisi"}
+{"value":"FINIZINFIRMADM","name":"Finansman İzin Modülü Yöneticis"}
+{"value":"FINONAYADMIN","name":"Finansman Onay Modülü Yöneticisi"}
+{"value":"FINTEMINTADMIN","name":"Finansman Firma Teminat Yöneticisi"}
+{"value":"FINTLODEMEADMN","name":"Finansman TL Odeme Talimatı Yöneticisi"}
